@@ -19,10 +19,10 @@ There are more male riders than female according to the next graph.
 ![Screen Shot 2022-08-16 at 6 12 41 PM](https://user-images.githubusercontent.com/98489681/185001232-fa6bef3d-18e6-4774-a59d-e7bdcc5258db.png)
 
 ### Weekday per Hour
-![Screen Shot 2022-08-16 at 6 12 32 PM](https://user-images.githubusercontent.com/98489681/185001285-a35c28c1-a25f-4509-bd41-1916cf0e2130.png)
+![Screen Shot 2022-08-16 at 6 12 32 PM](https://user-images.githubusercontent.com/98489681/185001889-60153869-9715-4e16-8604-ff948f1c9050.png)
 
 ### User Trips by Gender by Weekday
-![Screen Shot 2022-08-16 at 5 31 34 PM](https://user-images.githubusercontent.com/98489681/185001350-38a5ece9-29b9-4ddb-a1b6-74acb16be767.png)
+![Screen Shot 2022-08-16 at 6 12 23 PM](https://user-images.githubusercontent.com/98489681/185001872-09450e25-48b2-4031-8648-842bfad4e2de.png)
 
 Lastly, these three graphs should that most weekday rides are during rush hour times. During the weekend, it is after dawn and before sundown that bikes are most often riden. It is still more popular for men to use the bikes. 
 
